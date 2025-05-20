@@ -1,0 +1,19 @@
+.alfa-slab-one-regular {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body, html, #root {
+  height: 100%;
+  overflow: hidden;
+}
+
+.keep-together {
+  white-space: nowrap;
+  display:  inline-block;
+}
+
+.categoryTileImage:hover {
+  filter: blur(20);
+}

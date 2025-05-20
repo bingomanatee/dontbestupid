@@ -1,0 +1,5 @@
+export const MAX_IMAGE_CACHE_HOURS = 'MAX_IMAGE_CACHE_HOURS';
+
+export const PEXELS_API_KEY = 'PEXELS_API_KEY';
+
+export const OPENAI_API_KEY = 'OPENAI_API_KEY';
